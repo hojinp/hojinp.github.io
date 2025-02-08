@@ -7,6 +7,8 @@ published: true
 
 ## Recent talks
 - **MACARON: Multi-cloud/region Aware Cache Auto-ReconfiguratiON**
+  - SOSP, November 2024
+  - CMU PDL Retreat, October 2024.
   - CMU Advanced Cloud Computing Course Guest Lecture, April 2024.
   - Alluxio & Uber Data Infra Meetup, January 2024.
   - CMU PDL Retreat, November 2023.

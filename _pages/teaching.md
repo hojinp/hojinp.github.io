@@ -10,7 +10,9 @@ published: true
 - TA: 18-709/15-719 Advanced Cloud Computing (Spring 2022)
 
 ## Mentoring at CMU
-- Fulun Ma (2024-Present, MS Computational Data Science, Capstone Project)
+- Mohit Gaggar (2025, MS Information Networking Institute)
+- Saileshwar Karthik (2025, MS Information Networking Institute)
+- Fulun Ma (2024, MS Computational Data Science, Capstone Project)
 - Somansh Satish (2023, MS Computational Data Science, Capstone Project)
 - Anurag Choudhary (2023, MS Computational Data Science, Capstone Project)
 - Midhush Manohar Thevendria Karthic (2023, MS Computational Data Science, Capstone Project)

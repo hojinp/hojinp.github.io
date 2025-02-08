@@ -8,12 +8,16 @@ published: true
 ---
 
 ### Welcome!
-I am a Ph.D. student in the Computer Science Department at Carnegie Mellon University, co-advised by Prof. Greg Ganger and Prof. George Amvrosiadis.
-My research focuses broadly on distributed systems.
-Currently, I am working on building high-performance storage and caching systems in public clouds, with an emphasis on cost efficiency.
+
+I am a Ph.D. candidate in the Computer Science Department at Carnegie Mellon University, co-advised by Prof. Greg Ganger and Prof. George Amvrosiadis.
+I research autonomous storage and caching systems in public clouds, designing self-optimizing configurations and
+real-time resource provisioning strategies to minimize costs while achieving performance SLOs.
+My work has been published at SOSP, SYSTOR, and HotCloud. Prior to CMU, I worked on distributed deep learning systems at Seoul National University, with publications in EuroSys and ICDCS.
 
 
-### News
+<span style="color: blue;">**📢 I am seeking industry Research Scientist positions starting in 2025. I’d be happy to connect and discuss opportunities. Feel free to reach out at hojinp at andrew dot cmu dot edu.**</span>
+
+### News 
 <!-- #### 2024 -->
 <p style="margin: 0;">- 08/2024: The Macaron paper will appear at SOSP 2024!</p>
 <p style="margin: 0;">- 01/2024: Invited to present Macaron at Uber & Alluxio Data Infra Meetup.</p>
