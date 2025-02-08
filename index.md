@@ -10,8 +10,7 @@ published: true
 ### Welcome!
 
 I am a Ph.D. candidate in the Computer Science Department at Carnegie Mellon University, co-advised by Prof. Greg Ganger and Prof. George Amvrosiadis.
-I research autonomous storage and caching systems in public clouds, designing self-optimizing configurations and
-real-time resource provisioning strategies to minimize costs while achieving performance SLOs.
+I research autonomous storage and caching systems in public clouds, designing self-optimizing system configurations and resource provisioning strategies to minimize costs while achieving performance SLOs.
 My work has been published at SOSP, SYSTOR, and HotCloud. Prior to CMU, I worked on distributed deep learning systems at Seoul National University, with publications in EuroSys and ICDCS.
 
 
