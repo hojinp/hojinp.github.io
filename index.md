@@ -14,9 +14,10 @@ I research autonomous storage and caching systems in public clouds, designing se
 My work has been published at SOSP, SYSTOR, and HotCloud. Prior to CMU, I worked on distributed deep learning systems at Seoul National University, with publications in EuroSys and ICDCS.
 
 
-<span style="color: blue;">**📢 I am seeking industry Research Scientist positions starting in 2025. I’d be happy to connect and discuss opportunities. Feel free to reach out at hojinp at andrew dot cmu dot edu.**</span>
-
 ### News 
+<!-- #### 2025 -->
+<p style="margin: 0;">- 03/2025: Invited to present "Cost-Efficient Storage and Caching in Public Clouds" at Microsoft Lunch & Learn talk series.</p>
+
 <!-- #### 2024 -->
 <p style="margin: 0;">- 08/2024: The Macaron paper will appear at SOSP 2024!</p>
 <p style="margin: 0;">- 01/2024: Invited to present Macaron at Uber & Alluxio Data Infra Meetup.</p>
